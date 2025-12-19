@@ -1,0 +1,25 @@
+=== Task X.X: [Task Description] ===
+
+Command:
+[Your command here]
+
+Output:
+[Command output here]
+
+Explanation:
+[Brief 1-2 sentence explanation]
+
+---
+
+=== Task X.X: [Next task] ===
+
+Command:
+[Your command here]
+
+Output:
+[Command output here]
+
+Explanation:
+[Brief 1-2 sentence explanation]
+
+---
